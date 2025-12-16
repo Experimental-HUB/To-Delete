@@ -1,7 +1,7 @@
 # Random modification comment
 
-def saludo():
-    print("¡Hola, mundo!")
-
 def despedida():
     print("¡Adiós, mundo!")
+
+def new_saludo():
+    print("¡Hola de nuevo, mundo!")
