@@ -10,3 +10,6 @@ def new_saludo():
 def main():
     despedida()
     new_saludo()
+
+if __name__ == "__main__":
+    main()
